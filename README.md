@@ -26,3 +26,7 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - Clase #2, 10/04/2024 Intro. HTML Etiquetas básicas - https://youtu.be/4unCUKrX6Rg.
 - Clase #3, 12/04/2024 HTML Etiquetas básicas, e intr. inputs - https://youtu.be/-zJzsKeHR24.
 - Clase #4, 15/04/2024 HTML Inputs, formularios, selects - https://youtu.be/1ueeVDpi6g0.
+- Clase #5, 17/04/2024 CSS Introducción a CSS, Selectores, Estilos básicos - https://youtu.be/uOlaFTQ1M34.
+- Clase #6, 19/04/2024 CSS, Selectores, Estilos, Box model - https://youtu.be/FIs-jq1ppzU.
+- Clase #7, 22/04/2024 - Selectores, Box model, Intr. Flexbox - https://youtu.be/bnE3zdJhbd0.
+- Clase #8, 24/04/2024 - Selectores, Flexbox, Intr. HTML Semántico - https://youtu.be/Z-c7FYqT6Ao.
